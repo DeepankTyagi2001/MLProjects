@@ -12,6 +12,6 @@ End to End Machine Learning project
 Create a new environment for the project
 
 ```
-conda create -p venv python==3.11 -y
+conda create -p venv python==3.10 -y
 
 ```
